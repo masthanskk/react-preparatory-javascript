@@ -1,7 +1,7 @@
 ## Creating a Customizable Card Component
 
 ---
-
+# React Native state in class component__React state component [ https://snack.expo.dev/j9-M4WPTY ]
 ### Introduction:
 Creating a customizable Card Component with React Native. 
 we'll combine the concepts of 

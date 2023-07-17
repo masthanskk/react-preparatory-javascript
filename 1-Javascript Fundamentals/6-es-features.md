@@ -116,7 +116,7 @@ const user = {
 
 ### Arrow Functions
 **Arrow functions** provide a shorter syntax compared to regular *function expressions*.
-
+ 
 - REGULAR FUNCTION EXPRESSION
 ```javascript
 const numbers = [1, 2, 3, 4, 5]
