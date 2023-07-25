@@ -1,7 +1,10 @@
 ## Understanding Components in React Native -> React Native View and Component -> [https://snack.expo.dev/@masthansk/react-native-view]
    
 ## Creating a Component -> React Native View and Component -> React Native View and Component and Creating Component ->
-[https://snack.expo.dev/@masthansk/react-native-view]
+[https://snack.expo.dev/@masthansk/react-native-view] 
+
+## Complete Create a Component and State -> React Native state in class component
+[https://snack.expo.dev/@masthansk/component-state]
 
 
 ---
