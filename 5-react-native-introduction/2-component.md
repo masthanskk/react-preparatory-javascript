@@ -1,10 +1,33 @@
-## Understanding Components in React Native -> React Native View and Component -> [https://snack.expo.dev/@masthansk/react-native-view]
+## Understanding Components in React Native -> React Native - View and Component -> [https://snack.expo.dev/@masthansk/react-native-view]
    
-## Creating a Component -> React Native View and Component -> React Native View and Component and Creating Component ->
+## Creating a Component -> React Native View and Component -> React Native - View and Component and Creating Component ->
 [https://snack.expo.dev/@masthansk/react-native-view] 
 
-## Complete Create a Component and State -> React Native state in class component
+## Complete Create a Component and State -> React Native state - in class component
 [https://snack.expo.dev/@masthansk/component-state]
+
+## React Native state in functional component -> 
+[https://snack.expo.dev/@masthansk/state-in-class-and-function-]
+
+## React Native Class Based Friends List App -> 
+[https://snack.expo.dev/@masthansk/class-based-friends-list]
+
+## React Native Functional based Friends List ->
+[https://snack.expo.dev/@masthansk/functional-based-friends-list]
+
+## React Class Component LifeCycle Methods Part 1
+[https://snack.expo.dev/@masthansk/react-class-component-lifemethod] -> simple way
+[https://snack.expo.dev/@masthansk/react-class-component-life-method] -> Proper Way
+
+## Class based LifeCycle Methods with Simple API Call ->
+[https://snack.expo.dev/@masthansk/class-based-api-call]
+
+## React Native functional component lifecycle methods ->
+[https://snack.expo.dev/@masthansk/function-based-life-cycle-method]
+
+## Functional Component LifeCycle methods with API ->
+[https://screenpal.com/channels/c0nffBVYcg]
+
 
 
 ---
