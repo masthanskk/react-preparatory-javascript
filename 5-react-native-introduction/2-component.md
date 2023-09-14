@@ -26,7 +26,7 @@
 [https://snack.expo.dev/@masthansk/function-based-life-cycle-method]
 
 ## Functional Component LifeCycle methods with API ->
-[https://screenpal.com/channels/c0nffBVYcg]
+[https://snack.expo.dev/@masthansk/fakeproduct-functional]
 
 
 
